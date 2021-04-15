@@ -1,0 +1,4 @@
+azure-devops
+python-docx
+python-decouple
+python-dateutil
